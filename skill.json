@@ -1,0 +1,17 @@
+{
+  "name": "genpark-byte-pair-encoding-bpe-tokenizer-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Byte-Pair Encoding (BPE) Subword Tokenizer Training & Compression Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "nlp",
+    "bpe",
+    "subword-tokenization",
+    "byte-pair-encoding"
+  ]
+}
